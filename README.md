@@ -36,9 +36,9 @@ Pastikan Anda sudah menginstall **.NET SDK** di komputer Anda.
 - **IDE:** Visual Studio Code (macOS)
 
 ---
-*Dibuat oleh: 
+*Dibuat oleh: *
 1. Abdurrahman Fajri 240101010137
 2. Sangidealis Desak Tirani 240101010130
 3. Rival Mapulusikau 240101010128
 4. Prima Kurnia Nur Hikam 240101010124
-5. Trisha Aurel Carissa 240101010125*
+5. Trisha Aurel Carissa 240101010125
