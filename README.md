@@ -37,7 +37,7 @@ Pastikan Anda sudah menginstall **.NET SDK** di komputer Anda.
 
 ---
 *Dibuat oleh: 
-1. Abdurrahman Fajri | 240101010137
+1. Abdurrahman Fajri 240101010137
 2. Sangidealis Desak Tirani 240101010130
 3. Rival Mapulusikau 240101010128
 4. Prima Kurnia Nur Hikam 240101010124
